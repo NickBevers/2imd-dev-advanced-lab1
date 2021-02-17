@@ -1,0 +1,23 @@
+.cardholder{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.cardview {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    margin: 0 3%;
+    vertical-align: middle;
+    text-align: center;
+    border: 5px solid black;
+ }
+
+ .featureTitle{
+     font-size: 24;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+ 
